@@ -1,4 +1,4 @@
-# Music-Player with JavaScript
+# Music-Player By Yuval
 
 Function
 1) Random Song
