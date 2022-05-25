@@ -22,64 +22,64 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'images/test.jpg',
+        img : 'test.jpg',
         name : 'Astronaut in the Ocean',
         artist : 'Masked Wolf, Alok',
-        music : 'music/Astronaut In The Ocean Remix.mp3'
+        music : 'Astronaut In The Ocean Remix.mp3'
     },
     {
-        img : 'images/test2.jpg',
+        img : 'test2.jpg',
         name : 'Believer',
         artist : 'Imagine Dragons',
-        music : 'music/Believer.mp3'
+        music : 'Believer.mp3'
     },
     {
-        img : 'images/test3.jpg',
+        img : 'test3.jpg',
         name : 'Enemy',
         artist : 'Imagine Dragons',
-        music : 'music/Enemy.mp3'
+        music : 'Enemy.mp3'
     },
     {
-        img : 'images/test4.png',
+        img : 'test4.png',
         name : 'Falling',
         artist : 'Trevor Daniel',
-        music : 'music/Falling.mp3'
+        music : 'Falling.mp3'
     },
     {
-        img : 'images/test5.png',
+        img : 'test5.png',
         name : 'Heat Waves',
         artist : 'Glass Animals',
-        music : 'music/Heat Waves.mp3'
+        music : 'Heat Waves.mp3'
     },
     {
-        img : 'images/test6.jpg',
+        img : 'test6.jpg',
         name : 'Industry Baby',
         artist : 'Lil Nas X',
         music : 'Industry Baby.mp3'
     },
     {
-        img : 'images/test7.png',
+        img : 'test7.png',
         name : 'Montero',
         artist : 'Lil Nas X',
-        music : 'music/Montero.mp3'
+        music : 'Montero.mp3'
     },
     {
-        img : 'images/test8.jpg',
+        img : 'test8.jpg',
         name : 'Pasoori',
         artist : 'Coke Studio',
-        music : 'music/Pasoori.mp3'
+        music : 'Pasoori.mp3'
     },
     {
-        img : 'images/test9.png',
+        img : 'test9.png',
         name : 'Sorry',
         artist : 'Justin Bieber',
-        music : 'music/Sorry.mp3'
+        music : 'Sorry.mp3'
     },
     {
-        img : 'images/test10.jpg',
+        img : 'test10.jpg',
         name : 'Toxic',
         artist : 'BoyWithUke',
-        music : 'music/Toxic.mp3'
+        music : 'Toxic.mp3'
     }
 ];
 
