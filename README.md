@@ -1,7 +1,8 @@
-# Music-Player By Yuval
+# Music Player By Yuval
 
-Function
-1) Random Song
-2) Previous Song
-3) Next Song
-4) Repeat Song
+➜ [Visit Website](https://devyuval.github.io/musicplayer/)
+### Features
+● Shuffle
+● Previous Song
+● Next Song
+● Replay Song

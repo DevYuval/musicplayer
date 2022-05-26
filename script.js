@@ -22,64 +22,64 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'test.jpg',
+        img : 'assets/thumbnails/Astronaut-In-The-Ocean.jpg',
         name : 'Astronaut in the Ocean',
         artist : 'Masked Wolf, Alok',
-        music : 'Astronaut In The Ocean Remix.mp3'
+        music : 'assets/songs/Astronaut-In-The-Ocean.mp3'
     },
     {
-        img : 'test2.jpg',
+        img : 'assets/thumbnails/Believer.jpg',
         name : 'Believer',
         artist : 'Imagine Dragons',
-        music : 'Believer.mp3'
+        music : 'assets/songs/Believer.mp3'
     },
     {
-        img : 'test3.jpg',
+        img : 'assets/thumbnails/Enemy.jpg',
         name : 'Enemy',
         artist : 'Imagine Dragons',
-        music : 'Enemy.mp3'
+        music : 'assets/songs/Enemy.mp3'
     },
     {
-        img : 'test4.png',
+        img : 'assets/thumbnails/Falling.png',
         name : 'Falling',
         artist : 'Trevor Daniel',
-        music : 'Falling.mp3'
+        music : 'assets/songs/Falling.mp3'
     },
     {
-        img : 'test5.png',
+        img : 'assets/thumbnails/Heat-Waves.png',
         name : 'Heat Waves',
         artist : 'Glass Animals',
-        music : 'Heat Waves.mp3'
+        music : 'assets/songs/Heat-Waves.mp3'
     },
     {
-        img : 'test6.jpg',
+        img : 'assets/thumbnails/Industry-Baby.jpg',
         name : 'Industry Baby',
         artist : 'Lil Nas X',
-        music : 'Industry Baby.mp3'
+        music : 'assets/songs/Industry-Baby.mp3'
     },
     {
-        img : 'test7.png',
+        img : 'assets/thumbnails/Montero.png',
         name : 'Montero',
         artist : 'Lil Nas X',
-        music : 'Montero.mp3'
+        music : 'assets/songs/Montero.mp3'
     },
     {
-        img : 'test8.jpg',
+        img : 'assets/thumbnails/Pasoori.jpg',
         name : 'Pasoori',
         artist : 'Coke Studio',
-        music : 'Pasoori.mp3'
+        music : 'assets/songs/Pasoori.mp3'
     },
     {
-        img : 'test9.png',
+        img : 'assets/thumbnails/Sorry.png',
         name : 'Sorry',
         artist : 'Justin Bieber',
-        music : 'Sorry.mp3'
+        music : 'assets/songs/Sorry.mp3'
     },
     {
-        img : 'test10.jpg',
+        img : 'assets/thumbnails/Toxic.jpg',
         name : 'Toxic',
         artist : 'BoyWithUke',
-        music : 'Toxic.mp3'
+        music : 'assets/songs/Toxic.mp3'
     }
 ];
 
